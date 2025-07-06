@@ -1,7 +1,4 @@
-type Node struct {
-	value int32
-	next  *Node
-}
+package main
 
 type Queue struct {
 	front *Node
